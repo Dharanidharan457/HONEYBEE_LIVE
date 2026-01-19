@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BeeGuard AI - Smart Hive Monitor",
+  "description": "A sophisticated AI-driven dashboard for monitoring beehive health, visualizing sensor data from ESP32 devices, and interacting with 'Honey', an AI bee assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
